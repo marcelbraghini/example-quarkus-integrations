@@ -19,7 +19,7 @@
     <quarkus.platform.group-id>io.quarkus</quarkus.platform.group-id>
     <quarkus.platform.version>1.13.7.Final</quarkus.platform.version>
     <surefire-plugin.version>2.22.2</surefire-plugin.version>
-    <quarkus.cxf.version>0.8</quarkus.cxf.version>
+    <quarkus.cxf.version>3.15.2</quarkus.cxf.version>
     <cxf.version>3.4.4</cxf.version>
     <mockito.version>3.1.0</mockito.version>
   </properties>
